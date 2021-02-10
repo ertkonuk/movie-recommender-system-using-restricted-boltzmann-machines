@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.bin
+*.pt
+*.pyc
+*.zip
+*.tar
+*.gz
+.vscode/*
